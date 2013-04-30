@@ -1,0 +1,45 @@
+
+======================================================================================
+Sitecore.NuGet: C:\Users\gsmith\AppData\Local\Temp\Sitecore.NuGet.1.0.dll - 1.0.0.100
+Install-RocksPlugin
+
+======================================================================================
+Sitecore.NuGet: C:\Users\gsmith\AppData\Local\Temp\Sitecore.NuGet.1.0.dll - 1.0.0.100
+Install-ItemTemplates
+
+======================================================================================
+Sitecore.NuGet: C:\Users\gsmith\AppData\Local\Temp\Sitecore.NuGet.1.0.dll - 1.0.0.100
+Install-AppData
+
+======================================================================================
+Sitecore.NuGet: C:\Users\gsmith\AppData\Local\Temp\Sitecore.NuGet.1.0.dll - 1.0.0.100
+Install-ProgramFiles
+
+======================================================================================
+Sitecore.NuGet: C:\Users\gsmith\AppData\Local\Temp\Sitecore.NuGet.1.0.dll - 1.0.0.100
+Install-RocksPlugin
+
+======================================================================================
+Sitecore.NuGet: C:\Users\gsmith\AppData\Local\Temp\Sitecore.NuGet.1.0.dll - 1.0.0.100
+Install-ItemTemplates
+
+======================================================================================
+Sitecore.NuGet: C:\Users\gsmith\AppData\Local\Temp\Sitecore.NuGet.1.0.dll - 1.0.0.100
+Install-AppData
+
+======================================================================================
+Sitecore.NuGet: C:\Users\gsmith\AppData\Local\Temp\Sitecore.NuGet.1.0.dll - 1.0.0.100
+Install-ProgramFiles
+
+======================================================================================
+Sitecore.NuGet: C:\Users\gsmith\AppData\Local\Temp\Sitecore.NuGet.1.0.dll - 1.0.0.100
+Install-Items
+******** EXCEPTION ********
+System.InvalidOperationException: Visual Studio Project is not connected to Sitecore. Use Sitecore Rocks to connect the project to a Sitecore installation.
+   at Sitecore.NuGet.Projects.Project..ctor(Project project)
+   at Sitecore.NuGet.Installing.InstallItems.BeginProcessing()
+
+
+======================================================================================
+Sitecore.NuGet: C:\Users\gsmith\AppData\Local\Temp\Sitecore.NuGet.1.0.dll - 1.0.0.100
+Install-ServerFiles

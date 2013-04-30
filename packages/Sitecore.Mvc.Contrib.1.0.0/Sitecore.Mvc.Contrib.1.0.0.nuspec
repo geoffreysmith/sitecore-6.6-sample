@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Sitecore.Mvc.Contrib</id>
+    <version>1.0.0</version>
+    <authors>Mike Edwards, Kern Herskind, Kevin Buckley, Kevin Obee, Stephen Pope</authors>
+    <owners>Mike Edwards, Kern Herskind, Kevin Buckley, Kevin Obee, Stephen Pope</owners>
+    <licenseUrl>http://www.apache.org/licenses/LICENSE-2.0</licenseUrl>
+    <projectUrl>https://github.com/Sitecore-Community/Sitecore-Mvc-Contrib</projectUrl>
+    <iconUrl>http://www.sitecore.net/favicon.ico</iconUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>This project contains a set of common classes and helpers you may need while using Sitecore MVC</description>
+    <releaseNotes>This is a pre-release version of the package.</releaseNotes>
+    <tags>Sitecore CMS MVC Contrib</tags>
+    <dependencies>
+      <dependency id="Microsoft.AspNet.Mvc" version="3.0.20105.1" />
+    </dependencies>
+    <references>
+      <reference file="SitecoreAbstractions.dll" />
+      <reference file="SitecoreMvcContrib.dll" />
+    </references>
+  </metadata>
+</package>
