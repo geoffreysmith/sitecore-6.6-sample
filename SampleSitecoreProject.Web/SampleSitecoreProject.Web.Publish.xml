@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="C:\_SITES\sitecore-6.6-sample\Website" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FileSystem" replaceMatchingFiles="True" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="App_Config/Include/Sitecore.Shell.MarketingAutomation.config" publishTime="01/04/2013 11:45:08" />
+    <file relUrl="Global.asax" publishTime="03/27/2013 17:21:42" />
+    <file relUrl="App_Config/Prefetch/Common.config" publishTime="03/27/2013 17:21:42" />
+    <file relUrl="bin/System.Net.Http.WebRequest.xml" publishTime="04/29/2013 18:26:05" />
+    <file relUrl="App_Config/Portraits.config" publishTime="03/27/2013 17:21:42" />
+    <file relUrl="App_Config/XamlSharp.config" publishTime="03/27/2013 17:21:42" />
+    <file relUrl="bin/System.Web.WebPages.Razor.dll" publishTime="04/29/2013 18:26:03" />
+    <file relUrl="App_Config/Prototypes.config" publishTime="03/27/2013 17:21:42" />
+    <file relUrl="App_Config/MimeTypes.config" publishTime="03/27/2013 17:21:42" />
+    <file relUrl="bin/System.Net.Http.Formatting.dll" publishTime="04/29/2013 18:26:04" />
+    <file relUrl="bin/System.Web.WebPages.Deployment.xml" publishTime="04/29/2013 18:26:03" />
+    <file relUrl="App_Config/Commands.config" publishTime="03/27/2013 17:21:42" />
+    <file relUrl="bin/Newtonsoft.Json.xml" publishTime="04/29/2013 18:26:01" />
+    <file relUrl="App_Config/Security/GlobalRoles.config" publishTime="03/27/2013 17:21:42" />
+    <file relUrl="bin/System.Web.Razor.dll" publishTime="04/29/2013 18:26:02" />
+    <file relUrl="bin/System.Web.Mvc.dll" publishTime="04/29/2013 18:26:04" />
+    <file relUrl="App_Config/Include/Sitecore.AntiCsrf.config" publishTime="02/28/2013 14:08:54" />
+    <file relUrl="App_Config/Prefetch/Master.config" publishTime="03/27/2013 17:21:42" />
+    <file relUrl="App_Config/FieldTypes.config" publishTime="03/27/2013 17:21:42" />
+    <file relUrl="bin/System.Web.Helpers.dll" publishTime="04/29/2013 18:26:03" />
+    <file relUrl="App_Config/Security/Domains.config" publishTime="03/27/2013 17:21:42" />
+    <file relUrl="packages.config" publishTime="04/29/2013 18:26:06" />
+    <file relUrl="bin/System.Web.Http.xml" publishTime="04/29/2013 18:26:06" />
+    <file relUrl="bin/System.Web.WebPages.Razor.xml" publishTime="04/29/2013 18:26:03" />
+    <file relUrl="bin/System.Web.WebPages.dll" publishTime="04/29/2013 18:26:03" />
+    <file relUrl="bin/System.Web.Razor.xml" publishTime="04/29/2013 18:26:02" />
+    <file relUrl="bin/System.Net.Http.xml" publishTime="04/29/2013 18:26:05" />
+    <file relUrl="bin/System.Web.Http.WebHost.xml" publishTime="04/29/2013 18:26:06" />
+    <file relUrl="bin/System.Web.WebPages.xml" publishTime="04/29/2013 18:26:03" />
+    <file relUrl="bin/System.Web.Http.dll" publishTime="04/29/2013 18:26:06" />
+    <file relUrl="bin/Newtonsoft.Json.dll" publishTime="04/29/2013 18:26:01" />
+    <file relUrl="App_Config/Include/Sitecore.WebDAV.config" publishTime="03/27/2013 17:21:42" />
+    <file relUrl="bin/SampleSitecoreProject.Web.pdb" publishTime="04/29/2013 18:58:08" />
+    <file relUrl="bin/System.Net.Http.dll" publishTime="04/29/2013 18:26:05" />
+    <file relUrl="App_Config/Icons.config" publishTime="03/27/2013 17:21:42" />
+    <file relUrl="bin/System.Net.Http.WebRequest.dll" publishTime="04/29/2013 18:26:05" />
+    <file relUrl="App_Config/Prefetch/Web.config" publishTime="03/27/2013 17:21:42" />
+    <file relUrl="Views/Web.config" publishTime="04/29/2013 18:25:43" />
+    <file relUrl="bin/SampleSitecoreProject.Web.dll" publishTime="04/29/2013 18:58:08" />
+    <file relUrl="bin/System.Web.WebPages.Deployment.dll" publishTime="04/29/2013 18:26:03" />
+    <file relUrl="bin/System.Web.Http.WebHost.dll" publishTime="04/29/2013 18:26:06" />
+    <file relUrl="App_Config/ConnectionStrings.config" publishTime="04/30/2013 07:56:18" />
+    <file relUrl="bin/Microsoft.Web.Infrastructure.dll" publishTime="04/29/2013 18:26:02" />
+    <file relUrl="App_Config/LanguageDefinitions.config" publishTime="03/27/2013 17:21:42" />
+    <file relUrl="bin/System.Web.Mvc.xml" publishTime="04/29/2013 18:26:04" />
+    <file relUrl="bin/System.Net.Http.Formatting.xml" publishTime="04/29/2013 18:26:05" />
+    <file relUrl="App_Config/Prefetch/Core.config" publishTime="03/27/2013 17:21:42" />
+    <file relUrl="bin/System.Web.Helpers.xml" publishTime="04/29/2013 18:26:03" />
+    <file relUrl="Web.config" publishTime="04/29/2013 18:58:00" />
+  </publishProfile>
+</publishData>

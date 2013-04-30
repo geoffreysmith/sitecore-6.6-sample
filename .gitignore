@@ -1,0 +1,14 @@
+/SampleSitecoreProject.Web/obj
+/SampleSitecoreProject.Web/bin
+/external references/Sitecore.Kernel.dll
+/external references/Sitecore.Kernel.xml
+/external references/Sitecore.Logging.dll
+/external references/Sitecore.Mvc.Analytics.dll
+/external references/Sitecore.Mvc.DeviceSimulator.dll
+/external references/Sitecore.Mvc.dll
+/external references/Sitecore.Mvc.ExperienceEditor.dll
+/external references/sitecore.nexus.dll
+/external references/Sitecore.NVelocity.dll
+/external references/Sitecore.Client.dll
+/external references/Sitecore.Client.XML
+*.user
